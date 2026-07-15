@@ -1,3 +1,13 @@
+-- =========================================================
+-- Project: E-Commerce Sales Funnel Analysis
+-- Author: Kumari Ishika
+-- Tools: MySQL
+-- Description:
+-- This script contains SQL queries used to analyze customer
+-- behavior, conversion funnel performance, marketing channels,
+-- customer journey, and revenue metrics over the last 30 days.
+-- =========================================================
+
 create database sales_funnel_analysis;
 
 -- =========================================================
